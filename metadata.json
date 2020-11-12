@@ -4,9 +4,9 @@
   "author": "eyp",
   "summary": "postfix management - relay or multidomain mailserver",
   "license": "Apache-2.0",
-  "source": "https://github.com/NTTCom-MS/eyp-postfix",
-  "project_page": "https://github.com/NTTCom-MS/eyp-postfix",
-  "issues_url": "https://github.com/NTTCom-MS/eyp-postfix/issues",
+  "source": "https://github.com/SaltaIT/eyp-postfix",
+  "project_page": "https://github.com/SaltaIT/eyp-postfix",
+  "issues_url": "https://github.com/SaltaIT/eyp-postfix/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0 < 9.9.9"},
     {"name":"puppetlabs/concat","version_requirement":">= 1.2.3 < 9.9.9"},
